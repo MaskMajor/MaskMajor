@@ -2,7 +2,7 @@
 
 <ul>
   <li> <p>If youre looking for <b>FLAs or CPS files</b>, you can <b>probably</b> find them <a href="https://github.com/Dyplex">here</a></p></li>
-  <li> <p>If you are looking for <b>code related</b> things, you can <b>probably</b> find them <a href="https://github.com/CIlie23">here</a></p></li>
+  <s><li> <p>If you are looking for <b>code related</b> things, you can <b>probably</b> find them <a href="">here</a></p></li></s>
   <li> <p>If you are looking for the <b>assets related to the NEVERMORROW game</b>, you will find them <a href="https://github.com/MaskMajor/Nevermorrow-assets">here</a></p></li>
   <li> <p>If the links above don't have what you need, then you <b>COULD</b> probably find whatever you are looking for on this profile.</p></li>
 </ul>
